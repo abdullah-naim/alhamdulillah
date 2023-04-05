@@ -1,0 +1,204 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+  
+}
+ 
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .prising-wrapper  .btn {
+        padding: 7px 32px;
+    }
+    .prising-wrapper ul li {
+        margin-left: -25px;
+        line-height: 26px;
+        font-size: 15px;
+    }
+    .main-menu ul li {
+        margin-right: -12px;
+    }
+    .slider-area {
+        margin-top: 170px;
+    }
+    .features-area {
+        margin-top: 0px;
+        z-index: 133;
+        position: relative;
+    }
+    .single-features {
+        padding: 45px 0;
+        margin-right: 20px;
+        /* margin-left: 8px; */
+    }
+    .single-service {
+        margin-bottom: 20px;
+    }
+    .blog-title h4 {
+        color: #fff;
+        font-size: 24px;
+    }
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .prising-wrapper ul li {
+        line-height: 25px;
+        margin-left: -31px;
+        font-size: 10px;
+    }
+    .prising-wrapper span {
+        font-size: 28px;
+    }
+    .prising-wrapper span span {
+        font-size: 18px;
+    }
+    .subscribe-form input {
+        width: 75% !important;
+        margin-bottom: 20px;
+    }
+    .subscribe-form {
+        margin-bottom: 71px;
+        margin-left: 25%;
+    }
+    .logo {
+        margin-top: 13px;
+    }
+    .slider-inner h3 {
+        font-size: 33px;
+        line-height: 51px;
+    }
+    .single-features {
+        border-bottom: 1px solid;
+    }
+    .subscribe-form button {
+        
+        margin-left: 25% !important;
+        
+ 
+    }
+    .single-service {
+        margin-bottom: 20px;
+    }
+    .team-wrapper.text-center {
+        margin-top: 10px;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+
+
+}
+
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .footer-menu {
+        text-align: center;
+    }
+    .footer-content-3 h5 {
+       
+        margin-top: 27px;
+    }
+    .footer-content-2 {
+        margin-top: 26px;
+    }
+    .blog-thumb {
+        display: contents;
+       
+    }
+    .testimonial-name {
+       
+        padding: 33px 51px  !important;
+    }
+
+    .blog-wrapper {
+        text-align: center;
+    }
+    .team-img img {
+        width: 79%;
+    }
+    .single-service {
+        margin-right: 30px;
+    }
+    .team-img {
+        margin-top: 20px;
+    }
+
+    .prising-wrapper .btn {
+        padding: -6px -2px;
+    }
+    .prising-wrapper {
+        margin-left: 4px;
+        margin-right: 11px;
+    }
+    .prising-wrapper ul li {
+        line-height: 25px !important;
+        margin-left: -31px !important;
+        font-size: 10px !important;
+    }
+    .prising-wrapper span {
+        font-size: 28px;
+    }
+    .prising-wrapper span span {
+        font-size: 18px;
+    }
+    .prising-wrapper  .btn {
+        padding: 0px 6px;
+    }
+    .single-service {
+        margin-bottom: 20px;
+    }
+    .slider-icon {
+        margin-top: 36px;
+    }
+    .boy img{margin-top: 15px;}
+    .features-text {
+        text-align: center;
+    }
+    .logo {
+        margin-top: 12px;
+    }
+    .single-counter {
+        border-bottom: 1px solid #fff;
+    } 
+  
+    .subscribe-form button {
+        margin-left: 13% !important;
+    }
+    .subscribe-form {
+        margin-bottom: 71px;
+        margin-left: 25%;
+    }
+    .feaures-are .btn{margin-left: 25%;}
+    .single-features {
+        border-bottom: 1px solid;
+    }
+    
+    .pricing-item {
+        width: 100%;
+    }
+    .single-features p {
+        font-size: 13px !important;
+        
+    }
+    .subscribe-form input {
+        width: 90% !important;
+        margin-bottom: 18px;
+        margin-left: -9%;
+    } 
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+}
